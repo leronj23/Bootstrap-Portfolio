@@ -1,0 +1,111 @@
+body {
+    background-image: url("../../assets/images/fresh_snow_@2X.png");
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+}
+
+#name {
+    background-color: #4aaaa5;
+    margin: 0px;
+    margin-left: -15px;
+    padding: 29px;
+    width: 188px;
+    color: #ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 120%;
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    position: absolute;
+    right: 0px;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #777777;
+    text-align: center;
+    height: 81px;
+    padding: 31px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+#aboutMeDiv {
+
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 120%;
+    margin-left: 30px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+hr {
+
+    display: block;
+    width: 95%;
+    background-color:#cccccc; 
+    height: 2px; 
+    border: 0px;
+}
+
+img {
+
+    display: block;
+    margin-left: 30px;
+    padding-top: 20px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+p {
+    width: 70%;
+    margin-left: 20px;
+    float: left;
+}
+
+/* Portfolio */
+
+div.gallery {
+    width: 320px;
+    position: relative; 
+}
+
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+    margin-left: 0px;
+}
+
+div.desc {
+    
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: #4aaaa5;
+    text-align: center;
+    position: absolute;
+    top: 150px;
+    width: 100%;
+}
+
+/* Contact */
+
+.btn {
+    background: #4aaaa5;
+    color: #ffffff;
+}
