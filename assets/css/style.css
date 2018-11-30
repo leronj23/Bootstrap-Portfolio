@@ -8,7 +8,7 @@ body {
 #name {
     background-color: #4aaaa5;
     margin: 0px;
-    margin-left: -15px;
+    margin-left: -30px;
     padding: 29px;
     width: 188px;
     color: #ffffff;
@@ -17,7 +17,7 @@ body {
     float: left;
 }
 
-ul {
+/* ul {
     list-style-type: none;
     position: absolute;
     right: 0px;
@@ -42,7 +42,9 @@ li a {
 li a:hover {
     background-color: #4aaaa5;
     color: #ffffff;
-}
+} */
+
+
 
 #aboutMeDiv {
 
